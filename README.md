@@ -1,4 +1,7 @@
 # ReplaySorcery
+## Error fix: ‘AV_CH_LAYOUT_MONO’ undeclared
+I deciced to fork this project since the original repository is not longer maintained since 10 July 2021!
+Many thanks to the founders and contributers of this project. Still works like a charm!
 ## An open-source, instant-replay solution for Linux.
 Back when I used to use windows I used AMD ReLive alot. It, and the nVidia version ShadowPlay Instant Replay, will constantly record the screen without using too much computer resources and at the press of a keycombo will save the last 30 seconds.
 

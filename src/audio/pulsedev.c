@@ -25,6 +25,7 @@
 #include <libavutil/avutil.h>
 #include <libavutil/bprint.h>
 #include <libavutil/time.h>
+#include <libavutil/channel_layout.h>
 
 #ifdef RS_BUILD_PULSE_FOUND
 #include <pulse/pulseaudio.h>
